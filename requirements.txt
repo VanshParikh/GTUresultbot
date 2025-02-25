@@ -1,1 +1,8 @@
 
+python-telegram-bot==20.3
+requests
+schedule
+beautifulsoup4  # For web scraping
+lxml            # Faster HTML parsing
+sqlite3         # For lightweight database (if used)
+aiogram         # Alternative async Telegram bot framework
